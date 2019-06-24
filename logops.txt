@@ -1,0 +1,41 @@
+﻿Sysyem open (sys.main)
+
+init x; init y
+
+if x&y=0 
+
+x=0, y=0.
+
+if x&y=1
+
+x=1, y=1.
+
+if x=0, y=1,
+
+x&y=0.
+
+if x=1, y=0,
+
+x&y=0.
+
+if x||y=0
+
+x=0, y=0.
+
+if x=1, y=0
+
+x||y=1
+
+if x=0, y=1
+
+x||y=1
+
+if x=1, y=1
+
+x||y=1
+
+implements x&y
+
+implements x||y.
+
+

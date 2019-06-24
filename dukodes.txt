@@ -1,0 +1,15 @@
+Code(s)	Effect
+dncornholio or dnkroz	God mode: keeps your health at 100 regardless of damage or powerups. Also, you recieve an unlimited use jetpack!
+dnstuff	You get all the weapons, powerups, and keys, plus the message "Give everything!"
+dnitems	You get all the powerups and keys, plus the message "Give everything!", but no weapons.
+dnscotty##	Level Warp: the first # represents the episode, the second # represents the level.
+dnview	Changes your perspective to a view of Duke from behind and gives you the message "N/A".
+dncashman	Duke tosses money around every time you hit the spacebar.
+dncosmo	Gives you the message "Register Cosmo Today!"
+dnallen	Gives you the message "Buy Major Sryker"
+dnbeta	Gives you the message "Pirates suck!"
+dnhyper	Gives you a dose of the Steroids power-up
+dnrate	Will display the frame rate in the upper right corner.
+dnskill#	Changes the skill level of the game.
+dnclip	Turns cliping mode ON/OFF (Version 1.1 ONLY)
+dnmonsters	Removes the presence of monsters (Version 1.1 ONLY)
